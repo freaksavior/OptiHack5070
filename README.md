@@ -7,44 +7,83 @@ My efforts to get a Dell Optiplex 5070 fully working using Opecore bootloader. I
 
 -----------------------------------------------------------------------
 Host                           iMac.local
+
 OS                             Version 11.0.1 (Build 20B29)
+
 Kernel                         Darwin 20.1.0 x86_64
+
 RAM                            16.00 GB
+
 Model Identifier               iMac19,1
+
 CPU                            Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz
+
 Intel Generation               Coffee Lake
+
 Platform ID                    0x3E9B0007
+
 Board ID                       Mac-AA95B1DDAB278B95
+
 FW Version                     1037.140.50.0.0
+
 Serial Number                  
+
 Hardware UUID                  
+
 System ID                      
+
 ROM                            
+
 Board Serial Number            
+
 VDA Decoder                    Fully Supported
+
 -----------------------------------------------------------------------
+
 Serial Info
+
 -----------------------------------------------------------------------
+
 Country                        China (Quanta Computer)
+
 Year                           2019
+
 Week                           10.29.2019-11.03.2019
+
 Line                           805 (copy 1)
+
 Model                          iMac (Retina 5K, 27-inch, 2019)
+
 Model Identifier               iMac19,1
+
 Valid                          Possibly
+
 -----------------------------------------------------------------------
+
 IGPU
+
 -----------------------------------------------------------------------
+
 GPU Name                       Intel UHD Graphics 630 (Desktop 9 Series)
+
 GPU Device ID                  0x3E988086
+
 Total VRAM                     1536 MB
+
 Free VRAM                      0 MB
+
 Quartz Extreme (QE/CI)         Yes
+
 Metal Supported                Yes
+
 Metal Device Name              Intel(R) KBL Unknown
+
 Metal Default Device           Yes
+
 Metal Low Power                Yes
+
 Metal Headless                 No
+
 -----------------------------------------------------------------------
 
 Realtek ALC225 Using Layout 11 (IRQ patch is required).
