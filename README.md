@@ -6,8 +6,6 @@ First and foremost, thanks to everyone involved who put this together. The guide
 My efforts to get a Dell Optiplex 5070 fully working using Opecore bootloader. Included is the entire package, with SSDTime dumps and USBMap.kext.
 
 -----------------------------------------------------------------------
-Host                           iMac.local
-
 OS                             Version 11.0.1 (Build 20B29)
 
 Kernel                         Darwin 20.1.0 x86_64
