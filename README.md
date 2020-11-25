@@ -4,7 +4,7 @@ Dell Optiplex 5070 Hackintosh using OpenCore 0.6.3.
 Find the latest [OpenCore Release](https://github.com/acidanthera/opencorepkg/releases)
  
 
-First and foremost, thanks to everyone involved who put this together. The guide at [OpenCore Install Guide!]( https://dortania.github.io/OpenCore-Install-Guide)
+First and foremost, thanks to everyone involved who put this together. The [OpenCore Install Guide]( https://dortania.github.io/OpenCore-Install-Guide)
  is fanatastic and you should read through it. Twice. 
 
 My efforts to get a Dell Optiplex 5070 fully working using Opecore bootloader. Included is the entire package, with SSDTime dumps and USBMap.kext.
