@@ -1,5 +1,5 @@
 # OptiHack5070
-Dell Optiplex 5070 Hackintosh OpenCore
+Dell Optiplex 5070 Hackintosh OpenCore. Current release at https://github.com/acidanthera/opencorepkg/releases
 
 First and foremost, thanks to everyone involved who put this together. The guide at https://dortania.github.io/OpenCore-Install-Guide/ is fanatastic and you should read through it. Twice. 
 
