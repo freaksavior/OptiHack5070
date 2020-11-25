@@ -18,4 +18,4 @@ Disable CGF lock in the bios
 
 Allocating addotional preset ram for the iGPU
 
-Verify xchi handoff is actually happening 
+
