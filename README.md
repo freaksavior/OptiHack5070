@@ -88,13 +88,19 @@ Metal Headless                 No
 
 -----------------------------------------------------------------------
 
+Audio
+-----------------------------------------------------------------------
+
 Realtek ALC225 Using Layout 11 (IRQ patch is required).
 
+
 Not working: 
+-----------------------------------------------------------------------
 
 Sleep seems to cause a kernel panic. 
 
 Currently working:
+-----------------------------------------------------------------------
 
 As far as I can tell, everything else
 
