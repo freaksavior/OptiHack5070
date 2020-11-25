@@ -101,4 +101,4 @@ As far as I can tell, everything else
 
 Things to do, besides get sleep working: 
 
-Disable CGF lock in the bios
+Disable CGF lock in the bios which seems to be locked, so this may not be doable. 
