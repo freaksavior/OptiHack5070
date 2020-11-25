@@ -106,11 +106,11 @@ Disable CGF lock via GRUB boot64.efi.
 
 Please refer to the following two guides:
 
-https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#turning-off-cfg-lock-manually
+[Turning off CFG Lock Manually](https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#turning-off-cfg-lock-manually)
 
-https://github.com/JimLee1996/Hackintosh_OptiPlex_9020
+[JimLee1996 OptiPlex 9020](https://github.com/JimLee1996/Hackintosh_OptiPlex_9020)
 
-Bios 1.7 has a lock location of
+Using the latest Dell Bios 1.7 (Nov 25th 2020) has a lock location of 0x5BE:
 
 `0x4DAC6   One Of: CFG Lock, VarStoreInfo (VarOffset/VarName): 0x5BE, VarStore: 0x1, QuestionId: 0x333, Size: 1, Min: 0x0, Max 0x1, Step: 0x0 {05 91 B6 03 B7 03 33 03 01 00 BE 05 10 10 00 01 00}`
 
