@@ -122,13 +122,13 @@ Using the latest Dell Bios 1.70 (Nov 20th 2020) has a lock location of 0x5BE:
 
 For DVMT It looks like we already have our value set to 128M, so this /shouldn't/ need replaced, however, don't take my word for it. 
 
-`0x55332 		One Of: DVMT Total Gfx Mem, VarStoreInfo (VarOffset/VarName): 0x8DD, VarStore: 0x1, QuestionId: 0x5A1, Size: 1, Min: 0x1, Max 0x3, Step: 0x0 {05 91 E2 05 E3 05 A1 05 01 00 DD 08 10 10 01 03 00}
+`0x55332 		One Of: DVMT Total Gfx Mem, VarStoreInfo (VarOffset/VarName): 0x8DD, VarStore: 0x1, QuestionId: 0x5A1, Size: 1, Min: 0x1, Max 0x3, Step: 0x0 {05 91 E2 05 E3 05 A1 05 01 00 DD 08 10 10 01 03 00}`
 
-0x55343 			One Of Option: 128M, Value (8 bit): 0x1 {09 07 E4 05 00 00 01}
+`0x55343 			One Of Option: 128M, Value (8 bit): 0x1 {09 07 E4 05 00 00 01}`
 
-0x5534A 			One Of Option: 256M, Value (8 bit): 0x2 {09 07 E5 05 00 00 02}
+`0x5534A 			One Of Option: 256M, Value (8 bit): 0x2 {09 07 E5 05 00 00 02}`
 
-0x55351 			One Of Option: MAX, Value (8 bit): 0x3 (default) {09 07 E6 05 30 00 03}`
+`0x55351 			One Of Option: MAX, Value (8 bit): 0x3 (default) {09 07 E6 05 30 00 03}`
 
 
 ![alt text](https://github.com/freaksavior/OptiHack5070/blob/main/images/MSRoff.jpg?raw=true)
